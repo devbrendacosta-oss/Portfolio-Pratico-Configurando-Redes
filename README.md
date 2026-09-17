@@ -1,6 +1,5 @@
 # Portfólio Prático: Configuração de Rede Local LAN com Servidor DHCP — Topologia em Estrela
 
----
 
 ## Identificação Acadêmica
 
@@ -217,7 +216,7 @@ Demonstração do envio de PDU pelo modo de simulação do Packet Tracer, confir
 
 ## Licença
 
-"Projeto acadêmico desenvolvido para fins educacionais na disciplina de Comunicação de Dados e Redes de Computadores — UNICEPLAC. Uso restrito aos fins do curso."
+"Exercício acadêmico desenvolvido para fins educacionais na disciplina de Comunicação de Dados e Redes de Computadores — UNICEPLAC. Uso restrito aos fins do curso."
 
 ---
 
