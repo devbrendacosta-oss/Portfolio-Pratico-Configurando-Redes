@@ -1,7 +1,5 @@
 # Portfólio Prático: Configuração de Rede Local LAN com Servidor DHCP — Topologia em Estrela
 
----
-
 ## Identificação Acadêmica
 
 * **Instituição de Ensino:** Centro Universitário do Planalto Central Apparecido dos Santos (UNICEPLAC)
@@ -12,12 +10,6 @@
 ## Equipe do Projeto
 
 * Brenda Sousa Costa
-
----
-
-## Vídeo de Apresentação
-
-[Assista aqui](A_ser_definido)
 
 ---
 
@@ -188,7 +180,7 @@ Demonstração do envio de PDU pelo modo de simulação do Packet Tracer.
 
 ## Estrutura do Projeto
 
-    ATIVIDADE-REDES/
+    Portfolio-Pratico-Configurando-Redes/
     ├── Topologia_Rede_DHCP.pkt
     └── README.md
 
@@ -246,12 +238,12 @@ Demonstração do envio de PDU pelo modo de simulação do Packet Tracer.
 
 ## Licença
 
-Projeto acadêmico desenvolvido para fins educacionais na disciplina de Comunicação de Dados e Redes de Computadores — UNICEPLAC. Uso restrito aos fins do curso.
+Exercício acadêmico desenvolvido para fins educacionais na disciplina de Comunicação de Dados e Redes de Computadores — UNICEPLAC. Uso restrito aos fins do curso.
 
 ---
 
 ## Conclusão
 
-O projeto demonstrou a montagem e operacionalização de uma rede local em topologia em estrela utilizando um servidor DHCP. A configuração permitiu a distribuição automática de endereços IP e a realização de testes de conectividade entre as estações de trabalho e o servidor central.
+O exercício demonstrou a montagem e operacionalização de uma rede local em topologia em estrela utilizando um servidor DHCP. A configuração permitiu a distribuição automática de endereços IP e a realização de testes de conectividade entre as estações de trabalho e o servidor central.
 
 As evidências apresentadas no README documentam a topologia, a configuração e os testes realizados no Cisco Packet Tracer.
