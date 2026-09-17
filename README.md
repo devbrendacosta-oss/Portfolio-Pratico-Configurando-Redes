@@ -133,8 +133,6 @@ As portas abaixo foram conferidas de acordo com a topologia apresentada na captu
 - **Teste ICMP:** Executar `ping 192.168.1.10`.
 - **Modo Simulation:** Alterar para `Simulation`, criar uma PDU simples do PC para o servidor e clicar em `Play`.
 
-<img width="912" height="702" alt="Captura de tela 2026-09-17 171334" src="https://github.com/user-attachments/assets/8f2c78aa-765a-47d0-9041-05a8f514654d" />
-
 ---
 
 ## Exemplos de Uso / Evidências de Validação
@@ -159,6 +157,8 @@ Execução do comando `ping 192.168.1.10` a partir dos computadores clientes:
 
     Ping statistics for 192.168.1.10:
         Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
+
+<img width="912" height="702" alt="Captura de tela 2026-09-17 171334" src="https://github.com/user-attachments/assets/8f2c78aa-765a-47d0-9041-05a8f514654d" />
 
 ### 3. Teste de Envio de PDU
 
