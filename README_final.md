@@ -47,7 +47,7 @@ Esta atividade consolida o aprendizado prático de estruturação de redes locai
 
 ### Topologia da Rede
 
-<img width="1069" height="710" alt="Topologia da rede no Cisco Packet Tracer" src="https://github.com/user-attachments/assets/0bf04feb-8993-41b7-9ecf-872d145bde4f" />
+imagem
 
 ---
 
@@ -136,15 +136,11 @@ As portas abaixo foram conferidas de acordo com a topologia apresentada na captu
 
 ### Comando `show vlan brief`
 
-<img width="769" height="706" alt="show vlan brief" src="https://github.com/user-attachments/assets/4bd493a1-3552-4b1b-831b-329d9b62826c" />
-
+image
 ### Comando `show etherchannel summary`
-
-<img width="830" height="714" alt="show etherchannel summary" src="https://github.com/user-attachments/assets/ad4defb3-f65b-4b01-9ea1-f951e27d3bdb" />
 
 ### Comando `show ip route`
 
-<img width="837" height="719" alt="show ip route" src="https://github.com/user-attachments/assets/ed6733f5-02e3-45e8-916f-11733b8b310e" />
 
 ---
 
@@ -154,7 +150,7 @@ As portas abaixo foram conferidas de acordo com a topologia apresentada na captu
 
 Atribuição automática de IP realizada nos computadores clientes a partir do endereço `192.168.1.100`.
 
-<img width="943" height="708" alt="Confirmação DHCP" src="https://github.com/user-attachments/assets/9ddb6dbb-7d2b-453f-b0a6-ab19448f9414" />
+image
 
 ### 2. Teste de Conectividade (Ping)
 
