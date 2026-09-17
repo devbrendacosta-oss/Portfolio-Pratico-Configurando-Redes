@@ -46,8 +46,7 @@ Esta atividade consolida o aprendizado prático de estruturação de redes locai
 - **Cabeamento:** Cabos diretos (Copper Straight-Through) conectando cada dispositivo ao Switch.
 
 ### Topologia da Rede
-
-imagem
+<img width="793" height="717" alt="Captura de tela 2026-09-17 170427" src="https://github.com/user-attachments/assets/2f049a77-4224-4926-9a1c-7066957af67c" />
 
 ---
 
@@ -134,13 +133,7 @@ As portas abaixo foram conferidas de acordo com a topologia apresentada na captu
 - **Teste ICMP:** Executar `ping 192.168.1.10`.
 - **Modo Simulation:** Alterar para `Simulation`, criar uma PDU simples do PC para o servidor e clicar em `Play`.
 
-### Comando `show vlan brief`
-
-image
-### Comando `show etherchannel summary`
-
-### Comando `show ip route`
-
+<img width="912" height="702" alt="Captura de tela 2026-09-17 171334" src="https://github.com/user-attachments/assets/8f2c78aa-765a-47d0-9041-05a8f514654d" />
 
 ---
 
@@ -149,8 +142,7 @@ image
 ### 1. Validação do DHCP
 
 Atribuição automática de IP realizada nos computadores clientes a partir do endereço `192.168.1.100`.
-
-image
+<img width="995" height="717" alt="Captura de tela 2026-09-17 170522" src="https://github.com/user-attachments/assets/3484d6b8-47ed-4138-a90d-f55607e40817" />
 
 ### 2. Teste de Conectividade (Ping)
 
@@ -171,6 +163,8 @@ Execução do comando `ping 192.168.1.10` a partir dos computadores clientes:
 ### 3. Teste de Envio de PDU
 
 Demonstração do envio de PDU pelo modo de simulação do Packet Tracer.
+
+<img width="1365" height="713" alt="Captura de tela 2026-09-17 170801" src="https://github.com/user-attachments/assets/849163b4-3aff-4ca3-b50c-0348486b2494" />
 
 ---
 
